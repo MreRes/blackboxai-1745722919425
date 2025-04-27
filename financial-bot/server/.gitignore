@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.*
+
+# WhatsApp session
+whatsapp-session/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Backup files
+backups/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Test coverage
+coverage/
+
+# Production build
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Debug files
+.node-xmlhttprequest-*
